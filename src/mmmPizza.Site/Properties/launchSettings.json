@@ -3,12 +3,12 @@
     "windowsAuthentication": false,
     "anonymousAuthentication": true,
     "iisExpress": {
-      "applicationUrl": "http://localhost:54426",
-      "sslPort": 44337
+      "applicationUrl": "http://localhost:21500",
+      "sslPort": 44367
     }
   },
   "profiles": {
-    "mmmpizzza-site": {
+    "mmmPizza.Site": {
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,
